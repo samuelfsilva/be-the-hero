@@ -10,6 +10,11 @@
 </p>
 
 <br>
+<p align="center">
+  <img src="./.github/bethehero.png" />
+</p>
+
+<br>
 
 ### :rocket: Tecnologias usadas
 Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
